@@ -1,0 +1,21 @@
+#btn {
+	width: 300px;
+	height: 60px;
+	margin: 50px 500px;
+	
+}
+.no-borderradius #btn { 
+	background: url('rounded-btn.png');
+}
+
+.borderradius #btn { 
+	border-radius: 20px;
+    background-color: #dd0a35;
+    border: none; 
+}
+
+img {
+	height: 100px;
+    width: 300px;
+	margin: 50px 500px;
+}

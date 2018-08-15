@@ -1,3 +1,3 @@
 # svg 
 
-[https://oksanacoder.github.io/svg.github.io/hear-svg.html] (Svg heart animation)
+[SVG heart animation] (https://oksanacoder.github.io/svg.github.io/hear-svg.html)
